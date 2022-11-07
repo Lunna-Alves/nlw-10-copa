@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="https://www.figma.com/file/YlUVL3YPigoWtBj65buwFL/Calend%C3%A1rio-de-Jogos-(Community)?node-id=301%3A1812" width="100%">
+  <img alt="calendario da copa" src=".Github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
